@@ -13,7 +13,7 @@ A python script to achieve file read via FTP!
 
 ### Installation
 ```
-git clone https://github.com/lc/230-OOB
+git clone https://github.com/lc/230-OOB.git
 ```
 
 ### Usage:
